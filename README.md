@@ -64,4 +64,16 @@ Face-Mask-Detection-CNN/
 ├── README.md
 └── requirements.txt
 
+## 🌍 Future Improvements
+- Real-time webcam integration
+- Deployment using Flask or Streamlit
+- Model optimization for edge devices
+- Integration with CCTV systems
+
+- 
+## 👨‍💻 Author
+Piyush  
+B.Tech (Computer Science)  
+Interested in AI & Machine Learning
+
 
